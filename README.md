@@ -1,2 +1,2 @@
 # animated-landing
-# Page1
+# Smooth Styling
